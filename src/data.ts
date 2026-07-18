@@ -26,7 +26,7 @@ export const portfolioData = {
   name: "Minhajul Khan",
   title: "Full-Stack Web & Android Developer",
   tagline: "I build smart, scalable applications and lead tech projects with passion and precision",
-  summary: "I’m Minhajul Khan, a passionate full-stack developer with a strong foundation in both frontend and backend technologies. With hands-on experience in building dynamic web applications, Android apps, and Python-based tools, I strive to develop scalable, efficient, and user-centric digital solutions.",
+  summary: "I’m Minhajul Khan, a passionate full-stack developer with a strong foundation in both frontend and backend technologies. With hands-on experience in building dynamic web applications, Android apps, and AI agent-based tools, I strive to develop scalable, efficient, and user-centric digital solutions.",
   additionalSummary: "Beyond development, I actively contribute to the tech community as the President (formerly Project Coordinator) of Binary SUST — an IT-based organization at Shahjalal University of Science and Technology. Here, I lead organizational strategy, guide project teams, and conduct workshops.",
   
   about: {
