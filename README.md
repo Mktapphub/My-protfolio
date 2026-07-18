@@ -8,7 +8,8 @@ Hosted with fully-optimized modern assets, blazing-fast load times, and dynamic 
 
 ## 📸 Application Preview
 
-<img width="1366" height="728" alt="Screenshot" src="https://github.com/user-attachments/assets/38be0f47-9822-4347-9966-3d1bd6c0c82b" />
+<img width="1366" height="603" alt="Screenshot" src="https://github.com/user-attachments/assets/785b3ac6-037b-49e9-ae7d-e1f3cb38314b" />
+
 
 
 
