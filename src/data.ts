@@ -238,8 +238,8 @@ export const portfolioData = {
       ],
       image: TRAFFIC_CONTROL_IMG,
       tech: ["React", "TanStack Query", "PostgreSQL"],
-      demoUrl: "https://quran-sphere-9mmv.vercel.app/",
-      codeUrl: "https://quran-sphere-9mmv.vercel.app/",
+      demoUrl: "https://quransphere2026.netlify.app/",
+      codeUrl: "https://quransphere2026.netlify.app/",
       category: "webapp",
       stats: [
         { label: "Engine", OpenCV: "Vision 4.x" },
