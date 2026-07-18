@@ -8,7 +8,8 @@ Hosted with fully-optimized modern assets, blazing-fast load times, and dynamic 
 
 ## 📸 Application Preview
 
-![Minhajul Khan Portfolio Showcase](public/screenshot.png)
+<img width="1366" height="728" alt="Screenshot" src="https://github.com/user-attachments/assets/38be0f47-9822-4347-9966-3d1bd6c0c82b" />
+
 
 
 ---
