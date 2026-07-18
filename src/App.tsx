@@ -189,7 +189,7 @@ export default function App() {
                 animate={{ opacity: 1, scale: 1 }}
                 transition={{ delay: 0.35 }}
               >
-                Hire Minhajul Khan
+                Contact Minhajul Khan
                 <ArrowUpRight className="w-4 h-4 stroke-[2.5]" />
               </motion.button>
             </nav>
