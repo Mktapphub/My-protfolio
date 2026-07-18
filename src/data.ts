@@ -7,20 +7,20 @@ import {
   ContactInfo 
 } from './types';
 
-export const MINHAJUL_PROFILE = '/src/assets/images/Min.jpg';
-export const MINHAJUL_WORKSPACE_IMG = '/src/assets/images/minhaj_workspace_1783441664533.jpg';
-export const BINARY_SUST_IMG = '/src/assets/images/developer-team.png';
-export const CODE_EDITOR_IMG = '/src/assets/images/Advanced code Editor.png';
-export const BOOK_WORLD_IMG = '/src/assets/images/books.jpg';
-export const NOTEPAD_IMG = '/src/assets/images/Advanced Notepad.png';
-export const VOTE_SYS_PLUG = '/src/assets/images/poll.png';
+export const MINHAJUL_PROFILE ='/images/Min.jpg';
+export const MINHAJUL_WORKSPACE_IMG = '/images/minhaj_workspace_1783441664533.jpg';
+export const BINARY_SUST_IMG ='/images/developer-team.png';
+export const CODE_EDITOR_IMG ='/images/Advanced code Editor.png';
+export const BOOK_WORLD_IMG ='/images/books.jpg';
+export const NOTEPAD_IMG ='/images/Advanced Notepad.png';
+export const VOTE_SYS_PLUG ='/images/poll.png';
 
 // Newly Generated High-Fidelity Custom Visual Assets
-export const ADMISSION_HELPER_IMG = '/src/assets/images/Commerce Platform.jpg';
-export const BLOOD_DONATION_IMG = '/src/assets/images/Clinic.png';
-export const TRAFFIC_CONTROL_IMG = '/src/assets/images/quran.png';
-export const CODING_CAMP_IMG = '/src/assets/images/agent.png';
-export const NET_SCANNER_IMG = '/src/assets/images/vector_map_victoria_1783427594465.jpg';
+export const ADMISSION_HELPER_IMG ='/images/Commerce Platform.jpg';
+export const BLOOD_DONATION_IMG ='/images/Clinic.png';
+export const TRAFFIC_CONTROL_IMG ='/images/quran.png';
+export const CODING_CAMP_IMG ='/images/agent.png';
+export const NET_SCANNER_IMG ='/images/vector_map_victoria_1783427594465.jpg';
 
 export const portfolioData = {
   name: "Minhajul Khan",
