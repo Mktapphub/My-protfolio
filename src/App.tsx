@@ -11,6 +11,7 @@ import { ProjectShowcase } from './components/ProjectShowcase';
 import { Timeline } from './components/Timeline';
 import { Contact } from './components/Contact';
 import { Footer } from './components/Footer';
+import { Education } from './components/Education';
 
 export default function App() {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -22,6 +23,7 @@ export default function App() {
     { label: 'Stats', target: 'stats' },
     { label: 'Skills', target: 'tech-stack' },
     { label: 'Work', target: 'work' },
+    { label: 'Education', target: 'education' },
     { label: 'Experience', target: 'experience' },
     { label: 'Contact', target: 'contact' },
   ];
@@ -214,6 +216,11 @@ export default function App() {
 
         {/* PORTFOLIO CASE STUDY BLOCK */}
         <ProjectShowcase />
+        {/*  Education block  */}
+        <div id="education">
+          <Education />
+        </div>
+
 
         {/* EXPERIENCE TIMELINE BLOCK */}
         {/* Wrapping with experience wrapper to anchor the navbar target */}

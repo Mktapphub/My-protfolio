@@ -313,6 +313,15 @@ export const portfolioData = {
       ]
     }
   ] as unknown as Project[],
+   education: [
+    {
+      id: "edu-0",
+      degree: "B.A. in English Language & Literature",
+      institution: "Shahjalal University of Science and Technology (SUST)",
+      period: "2020 - 2024",
+      location: "Sylhet, Bangladesh",
+      description: "With a science background, I pursued software development alongside my English studies, combining analytical skills with hands-on technical experience through projects at my university’s tech-related organization"}
+  ] as EducationItem[],
 
   experience: [
     {
@@ -346,7 +355,7 @@ export const portfolioData = {
     {
       id: "exp-2",
       role: "Android App Developer",
-      company: "Remote",
+      company: "Self-Directed Projects",
       period: "2020 - Present",
       location: "Sylhet, Bangladesh",
       description: "Designed and developed a wide range of mobile utility and productivity applications for Android devices. Focused on achieving high performance, offline availability, lightweight memory footprints, and clean material user interfaces.",

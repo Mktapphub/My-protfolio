@@ -58,3 +58,11 @@ export interface ContactInfo {
   twitter: string;
   instagram: string;
 }
+export interface EducationItem {
+  id: string;
+  degree: string;
+  institution: string;
+  period: string;
+  location: string;
+  description: string;
+}
