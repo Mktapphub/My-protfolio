@@ -3,7 +3,8 @@ import {
   StatItem, 
   SkillCategory, 
   EducationItem, 
-  ExperienceItem, 
+  ExperienceItem,
+  Certificate,
   ContactInfo 
 } from './types';
 
@@ -381,6 +382,36 @@ export const portfolioData = {
       techUsed: ["WordPress", "PHP", "Tailwind CSS", "Responsive UI Design", "SEO Integration"]
     }
   ] as ExperienceItem[],
+  certificates: [
+    {
+      id: "cert-0",
+      name: "5-Day AI Agents Intensive Course with Google",
+      issuer: "Google",
+      issueDate: "December 2025",
+      credentialId: "105",
+      credentialUrl: "https://www.kaggle.com/certification/badges/minhajulkhan/105",
+      logoUrl: "google"
+    },
+    {
+      id: "cert-1",
+      name: "Introduction to Programming with Python",
+      issuer: "Bangladesh Computer Council",
+      issueDate: "December 2024",
+      credentialId: "EDGE-DSTS-126-0707-00008",
+      credentialUrl: "https://training.edge.gov.bd/certificate-validation",
+      logoUrl: "bd"
+    },
+    {
+      id: "cert-2",
+      name: "Agentic Al Mastery: MultiAgent Systems in Practice",
+      issuer: "Udemy",
+      issueDate: " June  2026",
+      credentialId: "UC-522b17fe-26fa-4532-b1f7-27e0c2073133",
+      credentialUrl: "https://www.udemy.com/certificate/UC-522b17fe-26fa-4532-b1f7-27e0c2073133/",
+      logoUrl: "udemy"
+    }
+  ] as Certificate[],
+
 
   contact: {
     location: "Sylhet, Bangladesh",

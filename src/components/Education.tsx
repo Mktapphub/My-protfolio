@@ -14,7 +14,7 @@ export const Education: React.FC = () => {
       <div className="text-center mb-10">
         <SectionHeader highlight="Edu" text="cation" />
         <p className="text-neutral-400 text-sm md:text-base mt-2 max-w-xl mx-auto font-sans leading-relaxed">
-          Academic foundation and leadership roles that support my engineering principles and technical capabilities.
+          My Academic Profile
         </p>
       </div>
 

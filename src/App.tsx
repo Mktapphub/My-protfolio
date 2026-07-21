@@ -12,6 +12,7 @@ import { Timeline } from './components/Timeline';
 import { Contact } from './components/Contact';
 import { Footer } from './components/Footer';
 import { Education } from './components/Education';
+import { Certificates } from './components/Certificates';
 
 export default function App() {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -25,6 +26,7 @@ export default function App() {
     { label: 'Work', target: 'work' },
     { label: 'Education', target: 'education' },
     { label: 'Experience', target: 'experience' },
+    { label: 'Certificates', target: 'certificates' },
     { label: 'Contact', target: 'contact' },
   ];
 
@@ -227,6 +229,11 @@ export default function App() {
         <div id="experience">
           <Timeline />
         </div>
+        {/* LICENSES AND CERTIFICATIONS (NEW BENTO SECTION) */}
+      <div id="certificates">
+        <Certificates />
+      </div>
+
 
         {/* CONTACT INQUIRIES BLOCK */}
         <Contact />

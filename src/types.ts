@@ -66,3 +66,13 @@ export interface EducationItem {
   location: string;
   description: string;
 }
+export interface Certificate {
+  id: string;
+  name: string;
+  issuer: string;
+  issueDate: string;
+  expirationDate?: string;
+  credentialId?: string;
+  credentialUrl?: string;
+  logoUrl?: string;
+}
